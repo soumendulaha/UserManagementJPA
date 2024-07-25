@@ -1,2 +1,4 @@
 NOTE :
-One to Many and Many to One bidirectional Mapping is BW Customer and PhoneNumber.
+Many TO One Uni directional Mapping with Student and Guide.
+Many students can have one guide. ( Many to one )
+One Guide can guide many student ( One to Many)
