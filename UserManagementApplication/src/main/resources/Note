@@ -1,4 +1,2 @@
 NOTE :
-Many TO One Uni directional Mapping with Student and Guide.
-Many students can have one guide. ( Many to one )
-One Guide can guide many student ( One to Many)
+Removing all the classes so that I can start JPA associations using test class.
