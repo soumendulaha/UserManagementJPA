@@ -1,2 +1,12 @@
 NOTE :
-Removing all the classes so that I can start JPA associations using test class.
+1.Started writing a basic Test class with Product Pojo. ApplicationTests.Java class ta jodi tui
+khulis dekhbi basic CRUD operation perform kora ache Product table er opor.
+
+FINDER METHODS:
+
+https://docs.spring.io/spring-data/jpa/docs/current-SNAPSHOT/reference/html/#jpa.query-methods
+
+Also here we are implementing finder methods on Product entity and product repository.
+
+Along with that we have created EmployeeJPQL model class, using this we are implementing finder , JPQL , 
+,partial JPQL , Named and Native query.
